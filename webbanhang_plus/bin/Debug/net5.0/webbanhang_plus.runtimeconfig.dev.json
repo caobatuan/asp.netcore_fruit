@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\tuann\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tuann\\.nuget\\packages"
+    ]
+  }
+}
